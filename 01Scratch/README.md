@@ -22,6 +22,8 @@
 
 ## While you Code
 
+### Pseudocode to start
+
 ### Code Reuse
 - Stand on the shoulders of giants
 - Be a good collaborator
@@ -29,14 +31,8 @@
 ### Always be Documenting
 - Documentation outline in the syllabus
 
-## GitHub+theOL Report/Refresher
+## GitHub+Canvas Refresher
 - Let's make a folder for next week's assignment
-
-## Reading Group Reports
-- A
-- B
-- C
-- D
 
 ## Tower of Babel
 
@@ -46,10 +42,10 @@
 - Interpreted: human readable > interpreter > machine readable (Python, Javascript)
   - easier to write, harder to run
 
-### Compiled languages: Source, Object, Compiler, Executable
+### Compiling Process
 - Source: what we write (human readable)
 - Compiler: translates from source to object
-- Object: binary (machine readable) (*you'll need one of these for the homework next week, hint hint*)
+- Object: binary (machine readable)
 - Executable: actually runs program
 
 ## [Scratch](https://scratch.mit.edu/)
